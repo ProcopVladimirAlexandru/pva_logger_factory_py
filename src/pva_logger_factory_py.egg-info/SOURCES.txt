@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/pva_logger_factory_py/__init__.py
-src/pva_logger_factory_py/logger_factory.py
-src/pva_logger_factory_py.egg-info/PKG-INFO
-src/pva_logger_factory_py.egg-info/SOURCES.txt
-src/pva_logger_factory_py.egg-info/dependency_links.txt
-src/pva_logger_factory_py.egg-info/top_level.txt
