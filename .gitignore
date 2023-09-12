@@ -1,4 +1,4 @@
 dist/*
 *.toml
-*__pychache__*
-/src/pva_logger_factory_py.egg-info
+*/__pycache__/*
+/src/pva_logger_factory_py.egg-info/*
