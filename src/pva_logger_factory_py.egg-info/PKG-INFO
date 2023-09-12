@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: pva-logger-factory-py
+Version: 0.0.1
+Summary: Very basic class which wraps logging module to shorten code needed by other classes to instantiate a logger to one line.
+Author-email: Procop Vladimir-Alexandru <vladiprocop@yahoo.com>
+Project-URL: Homepage, https://github.com/ProcopVladimirAlexandru/pva_logger_factory_py
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache 2.0 License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# pva_logger_factory_py 
+Very basic class which wraps logging module to shorten code needed by other classes to instantiate a logger to one line.
