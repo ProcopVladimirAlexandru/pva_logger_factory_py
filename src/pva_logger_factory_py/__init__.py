@@ -1,3 +1,3 @@
-from pva_logger_factory_py.logger_factory import LoggerFactory, LoggerFactoryException
+from pva_logger_factory_py.logger_factory import LoggerFactory
 
-__all__ = [LoggerFactory, LoggerFactoryException]
+__all__ = [LoggerFactory]
